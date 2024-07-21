@@ -1,4 +1,4 @@
-# PRODIGY_WD_03 #Webdevelopment #TicTAcToe
+# PRODIGY_WD_03 
 Tic Tac Toe Web Application
 This is TASK 3 of my internship at #ProdigyInfoTech.
 
